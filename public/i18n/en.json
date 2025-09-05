@@ -1,0 +1,50 @@
+{
+    "title": "Multi-language app",
+    "label": "Select another language!",
+    "about": "About me",
+    "home": "Home",
+    "project": "Projects",
+    "resume": "CV",
+    "greetings": "Hello",
+    "home.user": "I'M",
+    "brief": "Brief",
+    "intro": "introduction",
+    "p1": "I love the process of changing a raw idea into a website or a product that impacts lives.I want to do work that challenges me as a developer & work that I can be proud of.",
+    "fluent": "I'm fluent in",
+    "knowbit": "and",
+    "workon": "and i work on a few projects in",
+    "stack": "stacks",
+
+    "getto": "Get to",
+    "know": "know",
+    "me": "me!",
+    "Hi": "Hi, my name is",
+    "andIfrom": "and I am from",
+    "fulltack": "Full Stack Web & App developer",
+    "Ilove": "I love to create original projects with beautiful designs, you can check out some of my work in the projects section.",
+    "Im": "I am",
+    "Imm": "I'm",
+    "open": "open",
+    "collaborations": "to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.",
+    "Skillset": "My Skills",
+    "DownloadCV": "Download CV",
+    "Developed by": "Developed by",
+    "Copyright": "Copyright",
+
+
+      "projDesc": {
+    "Blog Fetching API's DataDesc": "I can not say it is full-stack blog project because no database used but data for blogs fetched from already created authorized API.",
+    "Multi Vendors Market PlaceDesc": "This is complex project with all ecommerce features whereby seller will request to start selling products from Admin and will receive payment through Stripe, mean of payment integrated on this website.",
+    "Portfolio Web using Next.jsDesc": "This is frontend portfolio website for showing my technology works, this project is responsive in all devices, has better UI and written on clean codes also integrating getform.io for receiving filled data from contact page.",
+    "Blog Web using LaravelDesc": "Full-stack website consist all features for modern blogs website such as Admin dashboard for writers to add blogs, integrating comment and readers reactions on blogs using Disqus, integrating Mailtrap for working with emails on contact page and more features see video demo by pressing live."
+  },
+  "githubButton": "Github",
+  "demoButton": "Demo"
+
+
+
+    
+ 
+    
+    
+}
