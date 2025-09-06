@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { BsDownload } from "react-icons/bs";
-import pdf from "./Resume.pdf";
+import pdf from "./Resumee.pdf";
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/Page/AnnotationLayer.css'; 
 import 'react-pdf/dist/Page/TextLayer.css';
